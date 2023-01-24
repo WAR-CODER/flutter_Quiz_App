@@ -1,0 +1,14 @@
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/CMakeFiles/install.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/CMakeFiles/quize_app.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/vuyani/AndroidStudioProjects/quize_app/flutter_Quiz_App/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
